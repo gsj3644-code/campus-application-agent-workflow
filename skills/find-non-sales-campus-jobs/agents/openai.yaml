@@ -1,0 +1,4 @@
+interface:
+  display_name: "非销售校招岗位搜索"
+  short_description: "公众号高召回发现，官方来源核验并分级非销售岗位"
+  default_prompt: "使用 $find-non-sales-campus-jobs 搜索非销售校招岗位，用公众号提高发现率、用官网或官方ATS完成核验，并报告回源率与未核验线索。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "公司岗位普查"
+  short_description: "查全本届岗位与投递规则，交付完整 Excel 底表"
+  default_prompt: "使用 $company-job-census 普查这家公司本届校招，生成完整 Excel 岗位底表、投递规则和简短交接提示。建议在 GPT-6 Luna、Max 思考强度的对话中运行。"

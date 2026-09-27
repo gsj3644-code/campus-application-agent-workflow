@@ -1,0 +1,4 @@
+interface:
+  display_name: "校招网申填写与投递"
+  short_description: "依据真实资料撰写、核对、填写并完成校招申请"
+  default_prompt: "使用 $complete-campus-applications 根据岗位和我的真实资料，完成可直接使用的网申内容、页面核对与填写。"

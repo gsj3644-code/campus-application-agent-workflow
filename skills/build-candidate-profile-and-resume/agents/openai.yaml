@@ -1,0 +1,4 @@
+interface:
+  display_name: "候选人资料与简历构建"
+  short_description: "维护唯一事实库、分组续接建档并按需生成简历"
+  default_prompt: "请使用 $build-candidate-profile-and-resume 分组建立唯一求职事实库，并在资料够用时按需制作简历。"

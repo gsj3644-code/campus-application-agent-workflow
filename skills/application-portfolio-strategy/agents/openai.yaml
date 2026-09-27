@@ -1,0 +1,4 @@
+interface:
+  display_name: "投递组合策略"
+  short_description: "以上岸机会为第一优先配置正式志愿、补充岗位和替换条件"
+  default_prompt: "使用 $application-portfolio-strategy 读取上一对话的完整 Excel 岗位底表和投递规则，以上岸机会为第一优先设计组合，交付 Word 并再次附上原底表。"

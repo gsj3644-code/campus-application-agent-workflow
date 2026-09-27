@@ -1,0 +1,4 @@
+interface:
+  display_name: "秋招总规划（通用版）"
+  short_description: "统筹候选人求职阶段、优先级、风险与专业技能交接安排"
+  default_prompt: "使用 $plan-autumn-recruitment 根据我的真实资料规划秋招。"

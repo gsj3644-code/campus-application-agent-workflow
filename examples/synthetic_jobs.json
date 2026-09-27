@@ -1,0 +1,31 @@
+{
+  "jobs": [
+    {
+      "company": "示例公司",
+      "campaign": "2027校园招聘",
+      "job_id": "DEMO-001",
+      "title": "运营分析培训生",
+      "department": "华东分部",
+      "location": "杭州",
+      "url": "https://example.com/jobs/DEMO-001"
+    },
+    {
+      "company": "示例公司",
+      "campaign": "2027校园招聘",
+      "job_id": "DEMO-002",
+      "title": "客户运营培训生",
+      "department": "华南分部",
+      "location": "深圳",
+      "url": "https://example.com/jobs/DEMO-002"
+    },
+    {
+      "company": "示例公司",
+      "campaign": "2027校园招聘",
+      "job_id": "DEMO-001",
+      "title": "运营分析培训生",
+      "department": "华东分部",
+      "location": "杭州",
+      "url": "https://example.com/jobs/DEMO-001"
+    }
+  ]
+}
